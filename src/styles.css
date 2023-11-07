@@ -1,0 +1,36 @@
+.Options {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Banner {
+  margin-top: 10%;
+  margin-bottom: 5%;
+}
+
+button {
+  background-color: azure;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  border: 2px solid gray;
+}
+
+button:hover {
+  background-color: lightblue;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  border: 2px solid gray;
+}
+
+img {
+  width: 100px;
+  height: auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-family: Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
